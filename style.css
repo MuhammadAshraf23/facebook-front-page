@@ -1,0 +1,100 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color:#f0f2f5;
+}
+.face{
+    padding: 20px;
+    background-color: #ffff;
+    width: 350px;
+    height: 300px;
+    margin-left: 600px;
+    margin-top: -198px;
+    border-radius: 10px;
+    padding-right: 18px;
+
+
+}    
+.fb{
+margin-top: 220px;
+margin-left: 175px;
+}
+h1{
+    font-size: 56px;
+    color: #1877f2;
+    font-family: sans-serif;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: normal;
+    width: 500px;
+}
+
+.email{
+    margin: 7px;
+    width: 290px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: large;
+    padding: 4px;
+    padding-left: 18px;
+    border: 1px solid #dddfe2;
+}
+.pass{
+    margin: 10px;
+    height: 40px;
+    width: 290px;
+     border-radius: 10px;
+     font-size: large;
+     padding: 4px;
+     padding-left: 18px;
+     border: 1px solid #dddfe2;
+}
+.btt{
+     color:white;
+    background-color: #1877f2;
+    margin: 10px;
+    height: 40px;
+    width: 320px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: larger;
+    border: 1px solid #dddfe2;
+   
+}
+.forget{
+    margin: 10px;
+    height: 40px;
+    width: 290px;
+    border-radius: 10px;
+    line-height: 23px;
+    font-size: 18px;
+    color: #1877f2;
+    margin-left: 90px;
+    font-weight: 300;
+   
+}
+hr{
+    margin: 10px 13px;
+}
+.account{
+    background-color:#42B72A;
+    margin: 16px 64px;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 1px solid #dddfe2;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
